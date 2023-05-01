@@ -1,4 +1,4 @@
-# qq_fanghong
+# qq_wx_Shortening
 
 ## 引言
 
@@ -8,4 +8,3 @@
 
 进入该网址：[qqred.qian.blue](https://qqred.qian.blue)
 
-搭建教程：[https://www.qian.blue/archives/qq-weixin_fanghong.html](https://www.qian.blue/archives/qq-weixin_fanghong.html)
