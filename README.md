@@ -6,5 +6,5 @@
 
 ## 使用方法
 
-进入该网址：[qqred.qian.blue](https://qqred.qian.blue)
+进入该网址：[[qqred.qian.blue](https://mrgao-prog.github.io/Shortening/)]([https://qqred.qian.blue](https://mrgao-prog.github.io/Shortening/))
 
